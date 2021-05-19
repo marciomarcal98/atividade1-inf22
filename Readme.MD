@@ -17,10 +17,14 @@ Todas as imagens abaixo podem ser expandidas para melhor visualização através
     As cores utilizadas no exercício foram: `#000` e `#999`
 
     ![./images/ex02.png](./images/ex02.png)
+<br>
+<br>
 
 3. Ainda no mesmo documento HTML, crie o formulário abaixo. 
 
     ![./images/ex03.png](./images/ex03.png)
+
+<br>
 
 O usuário pode apenas clicar em cadastrar se todas as informações estiverem preenchidas corretamente. Para isso, adicione o atributo ***required***.
 
