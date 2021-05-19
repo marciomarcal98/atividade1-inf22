@@ -35,5 +35,5 @@ Cada uma das inputs assim como o botão receberam um preenchimento de **10px**.
 O legend teve seu tamanho alterado para 20px e a intensidade da fonte mudada para 700 (bold).
 <br>
 <br>
-**
-Ao completar os exercícios, não se esqueça de enviar o arquivo HTML e o arquivo CSS juntos.**
+
+**Ao completar os exercícios, não se esqueça de enviar o arquivo HTML e o arquivo CSS juntos.**
