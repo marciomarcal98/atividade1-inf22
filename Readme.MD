@@ -33,7 +33,7 @@ Lembre-se de utilizar os nomes corretos para cada tipo de input e de utilizar as
 Cada uma das inputs assim como o botão receberam um preenchimento de **10px**.
 
 O legend teve seu tamanho alterado para 20px e a intensidade da fonte mudada para 700 (bold).
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c43157-4e03-489a-a0d8-80c1094a6d9e/Captura_de_Tela_2021-05-17_as_11.42.32.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c43157-4e03-489a-a0d8-80c1094a6d9e/Captura_de_Tela_2021-05-17_as_11.42.32.png)
-
-Ao completar os exercícios, não se esqueça de enviar o arquivo HTML e o arquivo CSS juntos.
+<br>
+<br>
+**
+Ao completar os exercícios, não se esqueça de enviar o arquivo HTML e o arquivo CSS juntos.**
